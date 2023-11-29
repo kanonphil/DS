@@ -1,0 +1,5 @@
+﻿  1.c
+C:\Users\xoghk\source\repos\DS1214\1.c(179,31): warning C4020: 'heap_sorting': 실제 매개 변수가 너무 많습니다.
+C:\Users\xoghk\source\repos\DS1214\1.c(180,31): warning C4020: 'heap_sorting': 실제 매개 변수가 너무 많습니다.
+C:\Users\xoghk\source\repos\DS1214\1.c(219,13): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DS1214.vcxproj -> C:\Users\xoghk\source\repos\DS1214\x64\Debug\DS1214.exe
