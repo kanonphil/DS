@@ -1,0 +1,4 @@
+﻿  1.c
+C:\Users\xoghk\source\repos\DS1207\1.c(164,17): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xoghk\source\repos\DS1207\1.c(173,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DS1207.vcxproj -> C:\Users\xoghk\source\repos\DS1207\x64\Debug\DS1207.exe
