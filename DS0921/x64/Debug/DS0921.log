@@ -1,0 +1,3 @@
+﻿  DS0921.c
+C:\Users\xoghk\source\repos\DS0921\DS0921.c(43,2): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  DS0921.vcxproj -> C:\Users\xoghk\source\repos\DS0921\x64\Debug\DS0921.exe
