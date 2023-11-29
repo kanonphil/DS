@@ -1,0 +1,6 @@
+﻿  1.c
+C:\Users\xoghk\source\repos\DS1114\1.c(40,35): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\xoghk\source\repos\DS1114\1.c(40,35): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\xoghk\source\repos\DS1114\1.c(86,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xoghk\source\repos\DS1114\1.c(95,17): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DS1114.vcxproj -> C:\Users\xoghk\source\repos\DS1114\x64\Debug\DS1114.exe
